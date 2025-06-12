@@ -1,0 +1,21 @@
+# .streamlit/config.toml
+
+[server]
+# run in headless mode (no local browser pop-up)
+headless = true
+# disable CORS if you hit any cross-origin issues
+enableCORS = false
+
+[theme]
+# turn on dark mode
+base               = "dark"
+# accent color
+primaryColor       = "#1abc9c"
+# main background
+backgroundColor    = "#0e1117"
+# sidebar / secondary panels
+secondaryBackgroundColor = "#262730"
+# default text color
+textColor          = "#fafafa"
+# choose a clean font
+font               = "sans serif"
