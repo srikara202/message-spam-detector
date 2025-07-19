@@ -4,4 +4,4 @@ A Spam Detector App for SMS and Emails
 
 download and run in terminal: "streamlit run app.py"
 
-Website (Heroku Deployment): https://message-spam-detector-d1bd38995db8.herokuapp.com/ (disabled for now)
+Website: https://message-spam-detector-gmujc2bcxlxrydgj2ngoei.streamlit.app/ (let me know if it isn't working)
